@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.env
+
+# Pipeline outputs (don't commit generated data)
+output/
+pipeline.log
+*.log
+
+# Data files
+data/transactions.csv
+data/transactions_sample.json
+
+# Terraform state (NEVER commit)
+terraform/.terraform/
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/.terraform.lock.hcl
+tfplan
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
