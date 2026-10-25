@@ -2,7 +2,7 @@
 
 > **DataOps pipeline for financial transaction data** — ingests, transforms, and stores transaction records for downstream analytics and ML use cases.
 
-[![CI/CD](https://github.com/YOUR_ORG/financial-dataops-pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/YOUR_ORG/financial-dataops-pipeline/actions)
+[![CI/CD](https://github.com/sharathdchandra97/financial-dataops-pipeline/actions/workflows/pipeline.yml/badge.svg)](https://github.com/sharathdchandra97/financial-dataops-pipeline/actions)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
@@ -45,7 +45,7 @@
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_ORG/financial-dataops-pipeline
+git clone https://github.com/sharathdchandra97/financial-dataops-pipeline
 cd financial-dataops-pipeline
 pip install -r requirements.txt
 ```
